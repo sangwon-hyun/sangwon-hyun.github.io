@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2020-09-02 Wed 22:28 -->
+<!-- 2021-01-15 Fri 09:50 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Sangwon (Justin) Hyun</title>
@@ -40,7 +40,7 @@
   }
   pre.src {
     position: relative;
-    overflow: visible;
+    overflow: auto;
     padding-top: 1.2em;
   }
   pre.src:before {
@@ -52,7 +52,7 @@
     padding: 3px;
     border: 1px solid black;
   }
-  pre.src:hover:before { display: inline;}
+  pre.src:hover:before { display: inline; margin-top: 14px;}
   /* Languages per Org manual */
   pre.src-asymptote:before { content: 'Asymptote'; }
   pre.src-awk:before { content: 'Awk'; }
@@ -195,50 +195,26 @@
 </style>
 <link rel="stylesheet" href="org3.css" type="text/css" />
 <script type="text/javascript">
-/*
-@licstart  The following is the entire license notice for the
-JavaScript code in this tag.
-
-Copyright (C) 2012-2019 Free Software Foundation, Inc.
-
-The JavaScript code in this tag is free software: you can
-redistribute it and/or modify it under the terms of the GNU
-General Public License (GNU GPL) as published by the Free Software
-Foundation, either version 3 of the License, or (at your option)
-any later version.  The code is distributed WITHOUT ANY WARRANTY;
-without even the implied warranty of MERCHANTABILITY or FITNESS
-FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
-
-As additional permission under GNU GPL version 3 section 7, you
-may distribute non-source (e.g., minimized or compacted) forms of
-that code without the copy of the GNU GPL normally required by
-section 4, provided you include this license notice and a URL
-through which recipients can access the Corresponding Source.
-
-
-@licend  The above is the entire license notice
-for the JavaScript code in this tag.
-*/
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
 <!--/*--><![CDATA[/*><!--*/
- function CodeHighlightOn(elem, id)
- {
-   var target = document.getElementById(id);
-   if(null != target) {
-     elem.cacheClassElem = elem.className;
-     elem.cacheClassTarget = target.className;
-     target.className = "code-highlighted";
-     elem.className   = "code-highlighted";
-   }
- }
- function CodeHighlightOff(elem, id)
- {
-   var target = document.getElementById(id);
-   if(elem.cacheClassElem)
-     elem.className = elem.cacheClassElem;
-   if(elem.cacheClassTarget)
-     target.className = elem.cacheClassTarget;
- }
-/*]]>*///-->
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
 </script>
 </head>
 <body>
@@ -248,21 +224,24 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org5251c14">About me</a></li>
-<li><a href="#org7aeb303">Education</a></li>
-<li><a href="#org27892a5">Research</a></li>
-<li><a href="#org5e198bc">Teaching</a></li>
-<li><a href="#org8715bf7">Other</a></li>
+<li><a href="#org26fcf4d">About me</a></li>
+<li><a href="#orgb19b902">Education</a></li>
+<li><a href="#org425b07c">Research</a></li>
+<li><a href="#org8188f06">Teaching</a></li>
+<li><a href="#org77c6d63">Other</a></li>
 </ul>
 </div>
 </div>
+<p>
+My new website is <a href="http://sangwon-hyun.org">here</a>!<br />
+</p>
 
 
-<div id="outline-container-org5251c14" class="outline-2">
-<h2 id="org5251c14">About me</h2>
-<div class="outline-text-2" id="text-org5251c14">
+<div id="outline-container-org26fcf4d" class="outline-2">
+<h2 id="org26fcf4d">About me</h2>
+<div class="outline-text-2" id="text-org26fcf4d">
 
-<div class="figure">
+<div id="orgbf3b1ba" class="figure">
 <p><img src="data:image/jpg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4QB+RXhpZgAASUkqAAgAAAACADEBAgAHAAAAJgAAAGmHBAAB
 AAAALgAAAAAAAABHb29nbGUAAAMAAJAHAAQAAAAwMjIwAaADAAEAAAABAAAABaAEAAEAAABYAAAA
 AAAAAAIAAQACAAQAAABSOTgAAgAHAAQAAAAwMTAwAAAAAP/iC/hJQ0NfUFJPRklMRQABAQAAC+gA
@@ -1518,7 +1497,7 @@ ARRH0haxAqPc97oMMJLcj7T3wM9hz2HHc++s1ms0aEcL/9k="crater-lake-resize.jpg /><br />
 <b>Post-doctoral Researcher</b><br />
 Department of Data Sciences and Operations<br />
 University of Southern California<br />
-Email: shyun[AT]usc.edu, robohyun66[AT]gmail.com<br />
+Email: sangwonh[AT]usc.edu, robohyun66[AT]gmail.com<br />
 </p>
 
 <p>
@@ -1549,9 +1528,9 @@ From <i>The Universe and the Teacup</i> by K.C. Cole:<br />
 </div>
 
 
-<div id="outline-container-org7aeb303" class="outline-2">
-<h2 id="org7aeb303">Education</h2>
-<div class="outline-text-2" id="text-org7aeb303">
+<div id="outline-container-orgb19b902" class="outline-2">
+<h2 id="orgb19b902">Education</h2>
+<div class="outline-text-2" id="text-orgb19b902">
 <p>
 B.S. in Statistics and Mathematics, University of Michigan - Ann Arbor (2013)<br />
 M.A. in Statistics, Carnegie Mellon University (2014)<br />
@@ -1568,9 +1547,9 @@ My ORCID ID is <a href="http://orcid.org/0000-0003-0377-897X">0000-0003-0377-897
 </div>
 </div>
 
-<div id="outline-container-org27892a5" class="outline-2">
-<h2 id="org27892a5">Research</h2>
-<div class="outline-text-2" id="text-org27892a5">
+<div id="outline-container-org425b07c" class="outline-2">
+<h2 id="org425b07c">Research</h2>
+<div class="outline-text-2" id="text-org425b07c">
 <p>
 My research interests include marine data analysis, epidemiological modeling/forecasting, changepoint detection, and post-selection inference.<br />
 </p>
@@ -1689,9 +1668,9 @@ Nashville, TN (slides)<br />
 </div>
 
 
-<div id="outline-container-org5e198bc" class="outline-2">
-<h2 id="org5e198bc">Teaching</h2>
-<div class="outline-text-2" id="text-org5e198bc">
+<div id="outline-container-org8188f06" class="outline-2">
+<h2 id="org8188f06">Teaching</h2>
+<div class="outline-text-2" id="text-org8188f06">
 <p>
 <b>Teaching Experience</b><br />
 </p>
@@ -1737,9 +1716,9 @@ Poster presentation, eCOTS 2018, Pittsburgh, PA<br />
 </div>
 </div>
 
-<div id="outline-container-org8715bf7" class="outline-2">
-<h2 id="org8715bf7">Other</h2>
-<div class="outline-text-2" id="text-org8715bf7">
+<div id="outline-container-org77c6d63" class="outline-2">
+<h2 id="org77c6d63">Other</h2>
+<div class="outline-text-2" id="text-org77c6d63">
 <p>
 <b>Work Experience</b><br />
 In the summer of 2015, I went to NASA Research to do some top secret stuff.<br />
@@ -1760,8 +1739,8 @@ Fun fact: I served 2 years in the military at the <a href="https://en.wikipedia.
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Sangwon Hyun</p>
-<p class="date">Created: 2020-09-02 Wed 22:28</p>
-<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+<p class="date">Created: 2021-01-15 Fri 09:50</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
 </html>
