@@ -1,6 +1,7 @@
 baseURL: https://sangwon-hyun.github.io
 title: Sangwon Hyun
 date: ""
+publishDir: "docs"
 description: This is a description 
 theme: "papermod"
 params:
