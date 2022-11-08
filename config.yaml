@@ -1,0 +1,18 @@
+baseURL: https://sangwon-hyun.github.io
+title: Sangwon Hyun
+date: ""
+description: This is a description 
+theme: "papermod"
+params:
+    profileMode:
+        enabled: true
+        title: "Sangwon (Justin) Hyun" # optional default will be site title
+        subtitle: "Assistant Professor of Statistics, UC Santa Cruz"
+        imageUrl: "https://github.com/sangwon-hyun/sangwon-hyun.github.io/blob/master/boston-mit-square.jpg?raw=true"
+        imageWidth: 250 # custom size
+        imageHeight: 250 # custom size
+        buttons:
+        - name: About me
+          url: about-me
+        - name: Research
+          url: research

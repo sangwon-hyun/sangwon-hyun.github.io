@@ -1,0 +1,6 @@
+#+title: "Research"
+#+date: 2022-10-26T13:38:27-07:00
+#+draft: false
+
+Hi, this is my actual first post, although the title might say "my second post".
+
