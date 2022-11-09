@@ -42,8 +42,8 @@ jobs:
       run: hugo --theme=papermod
 
     # Step 5 - Create name file
-    - name: Create cname file
-      run: echo 'sangwon-hyun.org' > docs/CNAME
+    #- name: Create cname file
+    #  run: echo 'sangwon-hyun.org' > docs/CNAME
 
     # Step 6 - Push our generated site to our gh-pages branch
     - name: Deploy
