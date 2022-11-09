@@ -24,5 +24,6 @@ My research interests include oceanographic data analysis, epidemiological model
 # I am a statistician passionate about doing high quality data science research by bringing my statistical background to in-depth scientific collaborations.  My PhD training was as a methods/theory-focused statistician, but through my post-doctoral research, I developed expertise as a committed applied statistician. I strongly believe that the best way to do high-impact data science is for statisticians to embed themselves deeply in the domain of application, perhaps more so than is traditional. I believe that in the growing interdisciplinary field of data science, a deep grounding in application is increasingly the methodological statistician’s most effective way of ensuring true and tangible impact on a domain. 
 
 I'm fond of the following bit from [[https://www.goodreads.com/book/show/330238.The_Universe_and_the_Teacup][The Universe and the Teacup]] by K.C. Cole:
+
 /"So the improved Newtonion Universe must cease and grow cold,"  says Thomasina's tutor Septimus in Stoppard's Arcadia, suddenly realizing the import of his student's mathematical discovery that disorder is the inevitable direction of things. "Dear me."/
 /"Yes," Thomasina replies, "we must hurry if we are going to dance."/
