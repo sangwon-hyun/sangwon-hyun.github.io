@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Sangwon Hyun</title>
-    <link>http://localhost:1313/</link>
+    <link>https://sangwon-hyun.github.io/</link>
     <description>Recent content on Sangwon Hyun</description>
     <generator>Hugo -- 0.141.0</generator>
     <language>en</language>
     <lastBuildDate>Wed, 26 Oct 2022 13:38:27 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sangwon-hyun.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>&#34;Research&#34;</title>
-      <link>http://localhost:1313/posts/research/</link>
+      <link>https://sangwon-hyun.github.io/posts/research/</link>
       <pubDate>Wed, 26 Oct 2022 13:38:27 -0700</pubDate>
-      <guid>http://localhost:1313/posts/research/</guid>
+      <guid>https://sangwon-hyun.github.io/posts/research/</guid>
       <description>&lt;p&gt;
 Hi, this is my actual first post, although the title might say &amp;#34;my second post&amp;#34;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About me</title>
-      <link>http://localhost:1313/about-me/</link>
+      <link>https://sangwon-hyun.github.io/about-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about-me/</guid>
+      <guid>https://sangwon-hyun.github.io/about-me/</guid>
       <description>&lt;img src=&#34;../img/boston-mit-round.png&#34; alt=&#34;../img/boston-mit-round.png&#34; title=&#34;../img/boston-mit-round.png&#34; width=&#34;40%&#34;/&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/sangwon-hyun/sangwon-hyun.github.io/blob/master/CV.pdf&#34;&gt;CV&lt;/a&gt; / &lt;a href=&#34;https://github.com/sangwon-hyun/&#34;&gt;Github&lt;/a&gt; / &lt;a href=&#34;https://scholar.google.com/citations?user=LLO62cQAAAAJ&amp;amp;hl=en&#34;&gt;Google Scholar&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
@@ -30,9 +30,9 @@ My research interests include oceanographic data analysis, epidemiological model
     </item>
     <item>
       <title>Group</title>
-      <link>http://localhost:1313/group/</link>
+      <link>https://sangwon-hyun.github.io/group/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/group/</guid>
+      <guid>https://sangwon-hyun.github.io/group/</guid>
       <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
 &lt;h2 id=&#34;headline-1&#34;&gt;
 Post-docs
@@ -74,22 +74,22 @@ Graduated
     </item>
     <item>
       <title>Research</title>
-      <link>http://localhost:1313/research/</link>
+      <link>https://sangwon-hyun.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/</guid>
+      <guid>https://sangwon-hyun.github.io/research/</guid>
       <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
 &lt;h2 id=&#34;headline-1&#34;&gt;
 Ocean data analysis
 &lt;/h2&gt;
 &lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
 &lt;p&gt;
-&lt;strong&gt;&lt;a href=&#34;https://royalsocietypublishing.org/doi/full/10.1098/rspa.2021.0875&#34;&gt;Ocean Mover’s Distance: Using Optimal Transport for Analyzing Oceanographic Data&lt;/a&gt;&lt;/strong&gt;
-Sangwon Hyun, Aditya Mishra, Christopher L. Follett Bror Jonsson, Gemma Kulk, Gael Forget, Marie-Fanny Racault, Thomas Jackson, Stephanie Dutkiewic, Christian L. Müller, and Jacob Bien
-&lt;em&gt;Proceedings of the Royal Society A (2022)&lt;/em&gt;&lt;/p&gt;
+&lt;strong&gt;&lt;a href=&#34;https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1197329/full&#34;&gt;Identification of Microbial Metabolic Functional Guilds from Large Genomic Datasets&lt;/a&gt;&lt;/strong&gt;
+Ryan Reynolds, Sangwon Hyun, Benjamin Tully, Jacob Bien, Naomi M. Levine
+&lt;em&gt;Frontiers in Microbiology (2023)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;
-&lt;span style=&#34;text-decoration: underline;&#34;&gt;&lt;strong&gt;Density-based Approaches to Evaluate Biogeochemical Models by Satellite Derived Chlorophyll&lt;/strong&gt;&lt;/span&gt;
+&lt;strong&gt;&lt;a href=&#34;https://gmd.copernicus.org/articles/16/4639/2023/gmd-16-4639-2023-assets.html&#34;&gt;Density-based Approaches to Evaluate Biogeochemical Models by Satellite Derived Chlorophyll&lt;/a&gt;&lt;/strong&gt;
 Bror F. Jönsson, Christopher L. Follett, Jacob Bien, Stephanie Dutkiewicz, Sangwon Hyun, Gemma Kulk, Gael Forget, Christian L. Müller, Marie-Fanny Racault, Christopher N. Hill, Thomas Jackson, Shubha Sathyendranath
-&lt;em&gt;In revision with AGU Biogeochemical Cycles (2021)&lt;/em&gt;&lt;/p&gt;</description>
+&lt;em&gt;Geoscientific Model Development (2023)&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
