@@ -6,7 +6,7 @@ description: This is a description
 theme: "papermod"
 params:
     profileMode:
-	social: true
+        social: true
         enabled: true
         title: "Sangwon (Justin) Hyun" # optional default will be site title
         subtitle: "Assistant Professor of Statistics, UC Santa Cruz"
