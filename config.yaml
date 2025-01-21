@@ -9,7 +9,7 @@ params:
         enabled: true
         title: "Sangwon (Justin) Hyun" # optional default will be site title
         subtitle: "Assistant Professor of Statistics, UC Santa Cruz"
-        imageUrl: "https://github.com/sangwon-hyun/sangwon-hyun.github.io/blob/master/boston-mit-square.jpg?raw=true"
+        imageUrl: "https://github.com/sangwon-hyun/sangwon-hyun.github.io/blob/master/pic.jpg?raw=true"
         imageWidth: 250 # custom size
         imageHeight: 250 # custom size
         buttons:
