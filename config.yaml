@@ -17,3 +17,5 @@ params:
           url: about-me
         - name: Research
           url: research
+        - name: Group
+          url: group

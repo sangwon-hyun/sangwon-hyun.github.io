@@ -1,0 +1,19 @@
+#+title: Group
+#+draft: false
+#+hugo_base_dir: ../
+#+hugo_section: ./
+#+hugo_weight: auto
+#+hugo_auto_set_lastmod: t
+
+
+* Post-docs
+
+I am recruiting for highly motivated postdoctoral scholars!
+
+* Students
+** Current
+- Ethan Pawl (Phd)
+- Ziyue Zheng (Phd)
+** Graduated
+- Rafael Catoia (MS, next position: Biostatistician, QSU Stanford Medicine)
+
