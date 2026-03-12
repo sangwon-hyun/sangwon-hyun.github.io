@@ -18,7 +18,7 @@
 
 @@html:<br>@@
 
-I am an Assistant Professor in the [[https://engineering.ucsc.edu/departments/statistics][Department of Statistics]] at the [[https://www.ucsc.edu/][University of California, Santa Cruz]]. Before my current position, I was a post-doctoral researcher (advised by [[http://faculty.marshall.usc.edu/jacob-bien/][Jacob Bien]]), with a PhD from Carnegie Mellon University (advised by [[https://www.andrew.cmu.edu/user/mgsell/][Max G'Sell]] and [[https://www.stat.cmu.edu/~ryantibs/][Ryan Tibshirani]]).
+I am an Assistant Professor in the [[https://engineering.ucsc.edu/departments/statistics][Department of Statistics]] at the [[https://www.ucsc.edu/][University of California, Santa Cruz]]. Before my current position, I was a post-doctoral researcher (advised by [[http://faculty.marshall.usc.edu/jacob-bien/][Jacob Bien]]), with a Ph.D. from Carnegie Mellon University (advised by [[https://www.andrew.cmu.edu/user/mgsell/][Max G'Sell]] and [[https://www.stat.cmu.edu/~ryantibs/][Ryan Tibshirani]]) and a B.S. from the University of Michigan.
 
 I develop statistical tools for large complex data in real-world scientific applications.
 
@@ -33,7 +33,7 @@ My current research centers around statistically analyzing the ocean's microbial
 
 My work is supported by the Simons Foundation and by the National Science foundation ([[https://www.nsf.gov/funding/opportunities/caig-collaborations-artificial-intelligence-geosciences][CAIG AI+Geosciences]]).
 
-I'm also an early-career representative on the Section U steering committee the American Association for the Advancement of Science (AAAS).
+I'm also an early-career representative on the Section U steering committee of the American Association for the Advancement of Science (AAAS).
 
 
 @@html:<br>@@
