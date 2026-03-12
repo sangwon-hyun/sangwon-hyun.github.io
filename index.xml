@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Sangwon Hyun</title><link>https://sangwon-hyun.github.io/</link><description>Recent content on Sangwon Hyun</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 26 Oct 2022 13:38:27 -0700</lastBuildDate><atom:link href="https://sangwon-hyun.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>"Research"</title><link>https://sangwon-hyun.github.io/posts/research/</link><pubDate>Wed, 26 Oct 2022 13:38:27 -0700</pubDate><guid>https://sangwon-hyun.github.io/posts/research/</guid><description>&lt;p&gt;
+Hi, this is my actual first post, although the title might say &amp;#34;my second post&amp;#34;.&lt;/p&gt;</description></item><item><title>About me</title><link>https://sangwon-hyun.github.io/about-me/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sangwon-hyun.github.io/about-me/</guid><description>&lt;img src="../img/boston-mit-round.png" alt="../img/boston-mit-round.png" title="../img/boston-mit-round.png" width="40%"/&gt;
+&lt;p&gt;&lt;a href="https://github.com/sangwon-hyun/sangwon-hyun.github.io/blob/master/CV.pdf"&gt;CV&lt;/a&gt; / &lt;a href="https://github.com/sangwon-hyun/"&gt;Github&lt;/a&gt; / &lt;a href="https://scholar.google.com/citations?user=LLO62cQAAAAJ&amp;amp;hl=en"&gt;Google Scholar&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+I am an Assistant Professor in the &lt;a href="https://engineering.ucsc.edu/departments/statistics"&gt;Department of Statistics&lt;/a&gt; at the &lt;a href="https://www.ucsc.edu/"&gt;University of California, Santa Cruz&lt;/a&gt;. Before my current position, I was a post-doctoral researcher (advised by &lt;a href="http://faculty.marshall.usc.edu/jacob-bien/"&gt;Jacob Bien&lt;/a&gt;), with a PhD from Carnegie Mellon University (advised by &lt;a href="https://www.andrew.cmu.edu/user/mgsell/"&gt;Max G&amp;#39;Sell&lt;/a&gt; and &lt;a href="https://www.stat.cmu.edu/~ryantibs/"&gt;Ryan Tibshirani&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;
+My research interests include oceanographic data analysis, epidemiological modeling/forecasting, changepoint detection, and selective inference. More generally, I develop statistical tools for large complex data in real-world scientific applications.&lt;/p&gt;</description></item><item><title>Group</title><link>https://sangwon-hyun.github.io/group/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sangwon-hyun.github.io/group/</guid><description>&lt;p&gt;
+I am recruiting for highly motivated postdoctoral scholars and graduate students to join my group!&lt;/p&gt;
+&lt;div id="outline-container-headline-1" class="outline-2"&gt;
+&lt;h2 id="headline-1"&gt;
+Post-docs
+&lt;/h2&gt;
+&lt;div id="outline-text-headline-1" class="outline-text-2"&gt;
+&lt;ul&gt;
+&lt;li&gt;Riddhiman Bhattacharya&lt;/li&gt;
+&lt;li&gt;Trisha Dawn (Incoming)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="outline-container-headline-2" class="outline-2"&gt;
+&lt;h2 id="headline-2"&gt;
+Students
+&lt;/h2&gt;
+&lt;div id="outline-text-headline-2" class="outline-text-2"&gt;
+&lt;div id="outline-container-headline-3" class="outline-3"&gt;
+&lt;h3 id="headline-3"&gt;
+Current
+&lt;/h3&gt;
+&lt;div id="outline-text-headline-3" class="outline-text-3"&gt;
+&lt;ul&gt;
+&lt;li&gt;Ethan Pawl (PhD, Jointly with Paul Parker)&lt;/li&gt;
+&lt;li&gt;Ziyue Zheng (PhD)&lt;/li&gt;
+&lt;li&gt;Dane Pearson (Undergrad)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="outline-container-headline-4" class="outline-3"&gt;
+&lt;h3 id="headline-4"&gt;
+Graduated
+&lt;/h3&gt;
+&lt;div id="outline-text-headline-4" class="outline-text-3"&gt;
+&lt;ul&gt;
+&lt;li&gt;Rafael Catoia (MS, next position: Biostatistician, QSU Stanford Medicine)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>Research</title><link>https://sangwon-hyun.github.io/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sangwon-hyun.github.io/research/</guid><description>&lt;div id="outline-container-headline-1" class="outline-2"&gt;
+&lt;h2 id="headline-1"&gt;
+Oceanography and biology
+&lt;/h2&gt;
+&lt;div id="outline-text-headline-1" class="outline-text-2"&gt;
+&lt;p&gt;
+&lt;strong&gt;&lt;a href="https://academic.oup.com/immunohorizons/article/10/3/vlaf078/8513204"&gt;Fine tuning of TCR signaling via CD8αβ and PD-1 and the fate of autoreactive thymocytes during negative selection&lt;/a&gt;&lt;/strong&gt;
+Martha C Zúñiga, Sangwon Hyun et al.
+&lt;em&gt;Immunohorizons (2025)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;&lt;a href="https://arxiv.org/abs/2512.08035"&gt;Defining 3-dimensional marine provinces with phytoplankton compositions&lt;/a&gt;&lt;/strong&gt;
+Rafael Catoia Pulgrossi, Nathan L R Williams, Yubin Raut, Jed Fuhrman, Sangwon Hyun
+&lt;em&gt;Submitted (2024)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;&lt;a href="https://arxiv.org/abs/2507.01375"&gt;Mixtures of Neural Network Experts with Application to Phytoplankton Flow Cytometry Data&lt;/a&gt;&lt;/strong&gt;
+Ethan Pawl, François Ribalet, Paul A Parker, Sangwon Hyun
+&lt;em&gt;Submitted (2024)&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>
