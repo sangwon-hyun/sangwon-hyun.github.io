@@ -19,7 +19,15 @@ I am an Assistant Professor in the [[https://engineering.ucsc.edu/departments/st
 
 My research interests include oceanographic data analysis, epidemiological modeling/forecasting, changepoint detection, and selective inference. More generally, I develop statistical tools for large complex data in real-world scientific applications.
 
-*I'm looking for motivated students to join my group!*
+Currently, my research centers around statistically analyzing the ocean's microbial ecology using high-resolution biological and remote sensing datasets (e.g., flow cytometry, metagenomics, DNA metabarcoding, and spatial proteomics). I often look at very small things -- like single-cell resolution flow cytometry data -- to answer very broad questions about ocean ecology. For novel datasets and technology, I build new tools and apply them to answer several questions:
+- What type of microbe lives where, and why?
+- How do you effectively compare spatiotemporal maps of measurements made in the ocean?
+- Which are coherent spatial regions (i.e., biomes/provinces) in the ocean according to biology?
+- How are marine microbes distributed where data has not been collected yet?
+
+My work is supported by the Simons Foundation and by the National Science foundation ([[https://www.nsf.gov/funding/opportunities/caig-collaborations-artificial-intelligence-geosciences][CAIG AI+Geosciences]]).
+
+*I'm looking for motivated students and postdocs to join my group!*
 
 # I am a statistician passionate about doing high quality data science research by bringing my statistical background to in-depth scientific collaborations.  My PhD training was as a methods/theory-focused statistician, but through my post-doctoral research, I developed expertise as a committed applied statistician. I strongly believe that the best way to do high-impact data science is for statisticians to embed themselves deeply in the domain of application, perhaps more so than is traditional. I believe that in the growing interdisciplinary field of data science, a deep grounding in application is increasingly the methodological statistician’s most effective way of ensuring true and tangible impact on a domain. 
 
