@@ -24,8 +24,6 @@ jobs:
         # This builds the site and then lists the files so we can see them in the log
         run: |
           hugo --minify
-          echo "Checking if public directory exists:"
-          ls -R public/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
