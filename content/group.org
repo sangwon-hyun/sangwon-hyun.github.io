@@ -5,18 +5,27 @@
 #+hugo_weight: auto
 #+hugo_auto_set_lastmod: t
 
-I am recruiting for highly motivated postdoctoral scholars and graduate students to join my group!
+I am recruiting for highly motivated postdoctoral scholars, graduate students,
+and undergraduate students to join my group!
 
 * Post-docs
-- Riddhiman Bhattacharya
-- Trisha Dawn (Incoming)
+Riddhiman Bhattacharya
+
+
+Trisha Dawn (Incoming)
+
+
 
 * Students
 ** Current
-- Ethan Pawl (PhD, Jointly with Paul Parker)
-- Ziyue Zheng (PhD)
-- Dane Pearson (Undergrad)
+[[https://ethan-pawl.github.io/][Ethan Pawl]] (PhD, Jointly with Paul Parker)
+
+Ziyue Zheng (PhD)
+
+Dane Pearson (Undergrad)
+
 # - Cameron O'Neill (PhD, jointly with Robert Lunde)
-** Graduated
-- Rafael Catoia (MS, next position: Biostatistician, QSU Stanford Medicine)
+** Alumni
+
+Rafael Catoia (MS, next position: Biostatistician, QSU Stanford Medicine)
 
