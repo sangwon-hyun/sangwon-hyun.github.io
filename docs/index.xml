@@ -4,7 +4,7 @@
     <title>Sangwon Hyun</title>
     <link>https://sangwon-hyun.github.io/</link>
     <description>Recent content on Sangwon Hyun</description>
-    <generator>Hugo -- 0.141.0</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 26 Oct 2022 13:38:27 -0700</lastBuildDate>
     <atom:link href="https://sangwon-hyun.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -33,13 +33,17 @@ My research interests include oceanographic data analysis, epidemiological model
       <link>https://sangwon-hyun.github.io/group/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sangwon-hyun.github.io/group/</guid>
-      <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+      <description>&lt;p&gt;
+I am recruiting for highly motivated postdoctoral scholars and graduate students to join my group!&lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
 &lt;h2 id=&#34;headline-1&#34;&gt;
 Post-docs
 &lt;/h2&gt;
 &lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;
-I am recruiting for highly motivated postdoctoral scholars!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Riddhiman Bhattacharya&lt;/li&gt;
+&lt;li&gt;Trisha Dawn (Incoming)&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;
@@ -53,9 +57,9 @@ Current
 &lt;/h3&gt;
 &lt;div id=&#34;outline-text-headline-3&#34; class=&#34;outline-text-3&#34;&gt;
 &lt;ul&gt;
-&lt;li&gt;Ethan Pawl (Phd, Jointly with Paul Parker)&lt;/li&gt;
-&lt;li&gt;Ziyue Zheng (Phd)&lt;/li&gt;
-&lt;li&gt;Cameron O&amp;#39;Neill (Phd, jointly with Robert Lunde)&lt;/li&gt;
+&lt;li&gt;Ethan Pawl (PhD, Jointly with Paul Parker)&lt;/li&gt;
+&lt;li&gt;Ziyue Zheng (PhD)&lt;/li&gt;
+&lt;li&gt;Dane Pearson (Undergrad)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -79,17 +83,21 @@ Graduated
       <guid>https://sangwon-hyun.github.io/research/</guid>
       <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
 &lt;h2 id=&#34;headline-1&#34;&gt;
-Ocean data analysis
+Oceanography and biology
 &lt;/h2&gt;
 &lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
 &lt;p&gt;
-&lt;strong&gt;&lt;a href=&#34;https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1197329/full&#34;&gt;Identification of Microbial Metabolic Functional Guilds from Large Genomic Datasets&lt;/a&gt;&lt;/strong&gt;
-Ryan Reynolds, Sangwon Hyun, Benjamin Tully, Jacob Bien, Naomi M. Levine
-&lt;em&gt;Frontiers in Microbiology (2023)&lt;/em&gt;&lt;/p&gt;
+&lt;strong&gt;&lt;a href=&#34;https://academic.oup.com/immunohorizons/article/10/3/vlaf078/8513204&#34;&gt;Fine tuning of TCR signaling via CD8αβ and PD-1 and the fate of autoreactive thymocytes during negative selection&lt;/a&gt;&lt;/strong&gt;
+Martha C Zúñiga, Sangwon Hyun et al.
+&lt;em&gt;Immunohorizons (2025)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;
-&lt;strong&gt;&lt;a href=&#34;https://gmd.copernicus.org/articles/16/4639/2023/gmd-16-4639-2023-assets.html&#34;&gt;Density-based Approaches to Evaluate Biogeochemical Models by Satellite Derived Chlorophyll&lt;/a&gt;&lt;/strong&gt;
-Bror F. Jönsson, Christopher L. Follett, Jacob Bien, Stephanie Dutkiewicz, Sangwon Hyun, Gemma Kulk, Gael Forget, Christian L. Müller, Marie-Fanny Racault, Christopher N. Hill, Thomas Jackson, Shubha Sathyendranath
-&lt;em&gt;Geoscientific Model Development (2023)&lt;/em&gt;&lt;/p&gt;</description>
+&lt;strong&gt;&lt;a href=&#34;https://arxiv.org/abs/2512.08035&#34;&gt;Defining 3-dimensional marine provinces with phytoplankton compositions&lt;/a&gt;&lt;/strong&gt;
+Rafael Catoia Pulgrossi, Nathan L R Williams, Yubin Raut, Jed Fuhrman, Sangwon Hyun
+&lt;em&gt;Submitted (2024)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;&lt;a href=&#34;https://arxiv.org/abs/2507.01375&#34;&gt;Mixtures of Neural Network Experts with Application to Phytoplankton Flow Cytometry Data&lt;/a&gt;&lt;/strong&gt;
+Ethan Pawl, François Ribalet, Paul A Parker, Sangwon Hyun
+&lt;em&gt;Submitted (2024)&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
