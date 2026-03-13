@@ -9,7 +9,7 @@ params:
         enabled: true
         title: "Sangwon (Justin) Hyun" # optional default will be site title
         subtitle: "Assistant Professor of Statistics, UC Santa Cruz"
-        imageUrl: "../img/resized-pic.jpg"
+        imageUrl: "img/resized-pic.jpg"
         imageWidth: 250 # custom size
         imageHeight: 250 # custom size
         buttons:
