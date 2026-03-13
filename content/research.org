@@ -15,6 +15,10 @@
 Martha C Zúñiga, Sangwon Hyun et al.
 /Immunohorizons (2026)/
 
+*[[https://arxiv.org/pdf/2603.05700][Change Point Detection for Cell Populations Measured via Flow Cytometry]]*
+Yik Lun Kei, Qi Wang, Paul A. Parker, Francois Ribalet, Sangwon Hyun
+/Submitted (2025)/
+
 *[[https://arxiv.org/abs/2512.08035][Defining 3-dimensional marine provinces with phytoplankton compositions]]*
 Rafael Catoia Pulgrossi, Nathan L R Williams, Yubin Raut, Jed Fuhrman, Sangwon Hyun
 /Submitted (2025)/
