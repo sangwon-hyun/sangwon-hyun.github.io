@@ -19,3 +19,5 @@ params:
           url: research
         - name: Group
           url: group
+
+# imageUrl: "https://sangwon-hyun.github.io/img/resized-pic.jpg"
