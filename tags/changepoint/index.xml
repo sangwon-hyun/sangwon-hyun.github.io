@@ -1,7 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Changepoint on Sangwon Hyun</title><link>https://sangwon-hyun.github.io/tags/changepoint/</link><description>Recent content in Changepoint on Sangwon Hyun</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 23 Mar 2026 12:52:19 -0700</lastBuildDate><atom:link href="https://sangwon-hyun.github.io/tags/changepoint/index.xml" rel="self" type="application/rss+xml"/><item><title>Research</title><link>https://sangwon-hyun.github.io/research/</link><pubDate>Mon, 23 Mar 2026 12:52:19 -0700</pubDate><guid>https://sangwon-hyun.github.io/research/</guid><description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;h2 id="time-series-decomposition-of-continuous-flow-cytometry-reveals-biogeographical-variation-in-population-specific-productivity-of-small-phytoplankton"&gt;&lt;strong&gt;Time Series Decomposition of Continuous Flow Cytometry Reveals Biogeographical Variation in Population-Specific Productivity of Small Phytoplankton&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;biology&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;oceanography&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Submitted (2026)&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id="fine-tuning-of-tcr-signaling-via-cd8αβ-and-pd-1-and-the-fate-of-autoreactive-thymocytes-during-negative-selection"&gt;&lt;strong&gt;&lt;a href="https://academic.oup.com/immunohorizons/article/10/3/vlaf078/8513204"&gt;Fine tuning of TCR signaling via CD8αβ and PD-1 and the fate of autoreactive thymocytes during negative selection&lt;/a&gt;&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;biology&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/h2&gt;
-&lt;p&gt;Martha C Zúñiga, Sangwon Hyun et al.
-&lt;em&gt;Immunohorizons (2026)&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Changepoint on Sangwon Hyun</title>
+    <link>http://localhost:1313/tags/changepoint/</link>
+    <description>Recent content in Changepoint on Sangwon Hyun</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/tags/changepoint/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
