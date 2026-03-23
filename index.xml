@@ -1,5 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Sangwon Hyun</title><link>https://sangwon-hyun.github.io/</link><description>Recent content on Sangwon Hyun</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 26 Oct 2022 13:38:27 -0700</lastBuildDate><atom:link href="https://sangwon-hyun.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>"Research"</title><link>https://sangwon-hyun.github.io/posts/research/</link><pubDate>Wed, 26 Oct 2022 13:38:27 -0700</pubDate><guid>https://sangwon-hyun.github.io/posts/research/</guid><description>&lt;p&gt;
-Hi, this is my actual first post, although the title might say &amp;#34;my second post&amp;#34;.&lt;/p&gt;</description></item><item><title>About me</title><link>https://sangwon-hyun.github.io/about-me/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sangwon-hyun.github.io/about-me/</guid><description>&lt;img src="../img/boston-mit-round.png" alt="../img/boston-mit-round.png" title="../img/boston-mit-round.png" width="40%"/&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Sangwon Hyun</title><link>https://sangwon-hyun.github.io/</link><description>Recent content on Sangwon Hyun</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 23 Mar 2026 12:52:19 -0700</lastBuildDate><atom:link href="https://sangwon-hyun.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Research</title><link>https://sangwon-hyun.github.io/research/</link><pubDate>Mon, 23 Mar 2026 12:52:19 -0700</pubDate><guid>https://sangwon-hyun.github.io/research/</guid><description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id="time-series-decomposition-of-continuous-flow-cytometry-reveals-biogeographical-variation-in-population-specific-productivity-of-small-phytoplankton"&gt;&lt;strong&gt;Time Series Decomposition of Continuous Flow Cytometry Reveals Biogeographical Variation in Population-Specific Productivity of Small Phytoplankton&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;biology&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;oceanography&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Submitted (2026)&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id="fine-tuning-of-tcr-signaling-via-cd8αβ-and-pd-1-and-the-fate-of-autoreactive-thymocytes-during-negative-selection"&gt;&lt;strong&gt;&lt;a href="https://academic.oup.com/immunohorizons/article/10/3/vlaf078/8513204"&gt;Fine tuning of TCR signaling via CD8αβ and PD-1 and the fate of autoreactive thymocytes during negative selection&lt;/a&gt;&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;biology&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/h2&gt;
+&lt;p&gt;Martha C Zúñiga, Sangwon Hyun et al.
+&lt;em&gt;Immunohorizons (2026)&lt;/em&gt;&lt;/p&gt;</description></item><item><title>About me</title><link>https://sangwon-hyun.github.io/posts/about-me/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sangwon-hyun.github.io/posts/about-me/</guid><description>&lt;nav&gt;
+&lt;ul&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;
+&lt;img src="../../img/boston-mit-round.png" alt="../../img/boston-mit-round.png" title="../../img/boston-mit-round.png" width="40%"/&gt;
 &lt;p&gt;&lt;a href="https://github.com/sangwon-hyun/sangwon-hyun.github.io/blob/master/CV.pdf"&gt;CV&lt;/a&gt; / &lt;a href="https://github.com/sangwon-hyun/"&gt;Github&lt;/a&gt; / &lt;a href="https://scholar.google.com/citations?user=LLO62cQAAAAJ&amp;amp;hl=en"&gt;Google Scholar&lt;/a&gt; / &lt;a href="https://orcid.org/0000-0003-0377-897X"&gt;Orcid&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;br&gt;&lt;/p&gt;
@@ -8,7 +17,7 @@ I am an Assistant Professor in the &lt;a href="https://engineering.ucsc.edu/depa
 &lt;p&gt;
 I develop statistical tools for large complex data in real-world scientific applications.&lt;/p&gt;
 &lt;p&gt;
-My current research centers around statistically analyzing the ocean&amp;#39;s microbial ecology using high-resolution biological and remote sensing datasets (e.g., flow cytometry, metagenomics, DNA metabarcoding, and spatial proteomics). My research often entails looking at very small things – like single-cell resolution flow cytometry data – to answer very broad questions about ocean ecology, like:&lt;/p&gt;</description></item><item><title>Group</title><link>https://sangwon-hyun.github.io/group/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sangwon-hyun.github.io/group/</guid><description>&lt;p&gt;
+My current research centers around statistically analyzing the ocean&amp;#39;s microbial ecology using high-resolution biological and remote sensing datasets (e.g., flow cytometry, metagenomics, DNA metabarcoding, and spatial proteomics). My research often entails looking at very small things – like single-cell resolution flow cytometry data – to answer very broad questions about ocean ecology, like:&lt;/p&gt;</description></item><item><title>Group</title><link>https://sangwon-hyun.github.io/posts/group/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sangwon-hyun.github.io/posts/group/</guid><description>&lt;p&gt;
 I am recruiting for highly motivated postdoctoral scholars, graduate students,
 and undergraduate students to join my group!&lt;/p&gt;
 &lt;div id="outline-container-headline-1" class="outline-2"&gt;
@@ -44,24 +53,44 @@ Alumni
 &lt;/h3&gt;
 &lt;div id="outline-text-headline-4" class="outline-text-3"&gt;
 &lt;p&gt;
-Rafael Catoia (MS, next position: Biostatistician, QSU Stanford Medicine)&lt;/p&gt;
+Rafael Catoia (MS, next position: Biostatistician, QSU Stanford Medicine) &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description></item><item><title>Research</title><link>https://sangwon-hyun.github.io/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sangwon-hyun.github.io/research/</guid><description>&lt;div id="outline-container-headline-1" class="outline-2"&gt;
-&lt;h2 id="headline-1"&gt;
-Oceanography and biology
-&lt;/h2&gt;
-&lt;div id="outline-text-headline-1" class="outline-text-2"&gt;
-&lt;p&gt;
-&lt;strong&gt;&lt;a href="https://academic.oup.com/immunohorizons/article/10/3/vlaf078/8513204"&gt;Fine tuning of TCR signaling via CD8αβ and PD-1 and the fate of autoreactive thymocytes during negative selection&lt;/a&gt;&lt;/strong&gt;
-Martha C Zúñiga, Sangwon Hyun et al.
-&lt;em&gt;Immunohorizons (2026)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;&lt;a href="https://arxiv.org/pdf/2603.05700"&gt;Change Point Detection for Cell Populations Measured via Flow Cytometry&lt;/a&gt;&lt;/strong&gt;
-Yik Lun Kei, Qi Wang, Paul A. Parker, Francois Ribalet, Sangwon Hyun
-&lt;em&gt;Submitted (2025)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;&lt;a href="https://arxiv.org/abs/2512.08035"&gt;Defining 3-dimensional marine provinces with phytoplankton compositions&lt;/a&gt;&lt;/strong&gt;
-Rafael Catoia Pulgrossi, Nathan L R Williams, Yubin Raut, Jed Fuhrman, Sangwon Hyun
-&lt;em&gt;Submitted (2025)&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>
+&lt;/div&gt;</description></item><item><title>Research</title><link>https://sangwon-hyun.github.io/posts/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sangwon-hyun.github.io/posts/research/</guid><description>&lt;style&gt;
+/* 1. Tighten the Header and setup the stack */
+.post-content h3, .post-content h4 {
+display: flex !important;
+flex-direction: column !important;
+align-items: flex-start !important;
+gap: 0px !important;
+line-height: 1.2 !important; /* Professional title spacing */
+margin-bottom: -10px !important; /* Pulls plain text up to the tags */
+margin-top: 2rem !important;
+}
+/* 2. Position the tags tightly under the title */
+[class^="tag-"] {
+position: relative !important;
+top: -12px !important; /* Pulls tags UP into the header space */
+display: inline-flex !important;
+padding: 1px 8px !important;
+border-radius: 6px !important;
+font-size: 0.75rem !important;
+line-height: 1.5 !important;
+}
+/* 3. Tighten the spacing between all plain text lines */
+.post-content p {
+margin-bottom: 0.5rem !important; /* Gap between paragraphs */
+line-height: 1.3 !important; /* Gap between lines in a paragraph */
+}
+/* 4. Keep tags side-by-side */
+[class^="tag-"] + [class^="tag-"] {
+margin-left: 5px !important;
+}
+&lt;/style&gt;
+&lt;div id="outline-container-headline-1" class="outline-4"&gt;
+&lt;h4 id="headline-1"&gt;
+&lt;strong&gt;Time Series Decomposition of Continuous Flow Cytometry Reveals Biogeographical Variation in Population-Specific Productivity of Small Phytoplankton&lt;/strong&gt;&amp;#xa0;&amp;#xa0;&amp;#xa0;&lt;span class="tags"&gt;&lt;span class="tag-biology"&gt;biology&lt;/span&gt;&amp;#xa0;&lt;span class="tag-oceanography"&gt;oceanography&lt;/span&gt;&lt;/span&gt;
+&lt;/h4&gt;
+&lt;div id="outline-text-headline-1" class="outline-text-4"&gt;
+&lt;p&gt;&lt;em&gt;Submitted (2026)&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>
