@@ -1,0 +1,37 @@
+#+title: Group
+#+draft: false
+#+hugo_base_dir: ../../
+#+hugo_section: posts
+#+EXPORT_FILE_NAME: group
+#+hugo_weight: auto
+#+hugo_auto_set_lastmod: t
+#+HUGO_SLUG: research
+
+I am recruiting for highly motivated postdoctoral scholars, graduate students,
+and undergraduate students to join my group!
+
+* Post-docs
+Riddhiman Bhattacharya
+
+
+Trisha Dawn (Incoming)
+
+
+
+* Students
+** Current
+[[https://ethan-pawl.github.io/][Ethan Pawl]] (PhD, Jointly with Paul Parker)
+
+Ziyue Zheng (PhD)
+
+Dane Pearson (Undergrad)
+
+# - Cameron O'Neill (PhD, jointly with Robert Lunde)
+** Alumni
+
+Rafael Catoia (MS, next position: Biostatistician, QSU Stanford Medicine)  
+ 
+* Formatting                                                       :noexport:
+# Local Variables:
+# eval: (org-hugo-auto-export-mode)
+# End:

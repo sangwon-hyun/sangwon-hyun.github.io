@@ -1,6 +1,180 @@
-#+title: "Research"
-#+date: 2022-10-26T13:38:27-07:00
-#+draft: false
+#+title: Research
 
-Hi, this is my actual first post, although the title might say "my second post".
+#+BEGIN_EXPORT html
 
+
+<style>
+  /* 1. Tighten the Header and setup the stack */
+  .post-content h3, .post-content h4 {
+      display: flex !important;
+      flex-direction: column !important;
+      align-items: flex-start !important;
+      gap: 0px !important;
+      line-height: 1.2 !important; /* Professional title spacing */
+      margin-bottom: -10px !important; /* Pulls plain text up to the tags */
+      margin-top: 2rem !important;
+  }
+
+  /* 2. Position the tags tightly under the title */
+  [class^="tag-"] {
+      position: relative !important;
+      top: -12px !important; /* Pulls tags UP into the header space */
+      display: inline-flex !important;
+      padding: 1px 8px !important;
+      border-radius: 6px !important;
+      font-size: 0.75rem !important;
+      line-height: 1.5 !important;
+  }
+
+  /* 3. Tighten the spacing between all plain text lines */
+  .post-content p {
+      margin-bottom: 0.5rem !important; /* Gap between paragraphs */
+      line-height: 1.3 !important;      /* Gap between lines in a paragraph */
+  }
+
+  /* 4. Keep tags side-by-side */
+  [class^="tag-"] + [class^="tag-"] {
+      margin-left: 5px !important;
+  }
+
+</style>
+#+END_EXPORT
+
+#+OPTIONS: author:nil
+#+filetags: :biology:oceanography:changepoint:disease:
+#+hugo_base_dir: ../../
+#+hugo_section: posts
+#+EXPORT_FILE_NAME: research
+#+hugo_weight: auto
+#+hugo_auto_set_lastmod: t
+#+HUGO_URL: /research/
+#+HUGO_CUSTOM_FRONT_MATTER: :author "Sangwon (Justin) Hyun"
+#+HUGO_TYPE: post
+
+
+
+# * Oceanography and biology
+
+# [[./][Study of the Interaction of environment and cell population from on-board cruises]]
+# Sangwon Hyun, Francois Ribalet, Timothy Coleman, Jacob Bien
+# In submission (2021)
+
+*** *Time Series Decomposition of Continuous Flow Cytometry Reveals Biogeographical Variation in Population-Specific Productivity of Small Phytoplankton* :biology:oceanography:
+/Submitted (2026)/
+
+*** *[[https://academic.oup.com/immunohorizons/article/10/3/vlaf078/8513204][Fine tuning of TCR signaling via CD8αβ and PD-1 and the fate of autoreactive thymocytes during negative selection]]* :biology:
+Martha C Zúñiga, Sangwon Hyun et al.
+/Immunohorizons (2026)/
+
+
+*** *[[https://arxiv.org/pdf/2603.05700][Change Point Detection for Cell Populations Measured via Flow Cytometry]]* :changepoint:oceanography:
+Yik Lun Kei, Qi Wang, Paul A. Parker, Francois Ribalet, Sangwon Hyun
+/Submitted (2025)/
+
+*** *[[https://arxiv.org/abs/2512.08035][Defining 3-dimensional marine provinces with phytoplankton compositions]]* :changepoint:biology:
+Rafael Catoia Pulgrossi, Nathan L R Williams, Yubin Raut, Jed Fuhrman, Sangwon Hyun
+/Submitted (2025)/
+
+*** *[[https://arxiv.org/abs/2507.01375][Mixtures of Neural Network Experts with Application to Phytoplankton Flow Cytometry Data]]* :oceanography:biology:
+Ethan Pawl, François Ribalet, Paul A Parker, Sangwon Hyun
+/Submitted (2025)/
+
+*** *[[https://arxiv.org/abs/2512.08087][Subcellular proteome niche discovery using semi-supervised functional clustering]]* :oceanography:biology:
+Ziyue Zheng, Loay J Jabre, Matthew McIlvin, Mak A Saito, Sangwon Hyun
+/Submitted (2025)/
+
+*** *[[https://arxiv.org/abs/2504.12287][Trend Filtered Mixture of Experts for Automated Gating of High-Frequency Flow Cytometry Data]]* :oceanography:biology:
+Sangwon Hyun, Tim Coleman, Francois Ribalet, Jacob Bien
+/Submitted (2025)/
+
+*** *[[https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1197329/full][Identification of Microbial Metabolic Functional Guilds from Large Genomic Datasets]]* :oceanography:biology:
+Ryan Reynolds, Sangwon Hyun, Benjamin Tully, Jacob Bien, Naomi M. Levine
+/Frontiers in Microbiology (2023)/
+
+*** *[[https://gmd.copernicus.org/articles/16/4639/2023/gmd-16-4639-2023-assets.html][Density-based Approaches to Evaluate Biogeochemical Models by Satellite Derived Chlorophyll]]* :oceanography:physics:
+Bror F. Jönsson, Christopher L. Follett, Jacob Bien, Stephanie Dutkiewicz, Sangwon Hyun, Gemma Kulk, Gael Forget, Christian L. Müller, Marie-Fanny Racault, Christopher N. Hill, Thomas Jackson, Shubha Sathyendranath
+/Geoscientific Model Development (2023)/
+
+*** *[[https://arxiv.org/abs/2008.11251][Modeling Cell Populations Measured By Flow Cytometry With Covariates Using Sparse Mixture of Regressions]]* :oceanography:biology:
+Sangwon Hyun, Mattias Rolf Cape, François Ribalet, Jacob Bien
+/Annals of Applied Statistics (2023)/
+
+*** *[[https://royalsocietypublishing.org/doi/full/10.1098/rspa.2021.0875][Ocean Mover’s Distance: Using Optimal Transport for Analyzing Oceanographic Data]]* :oceanography:physics:
+Sangwon Hyun, Aditya Mishra, Christopher L. Follett Bror Jonsson, Gemma Kulk, Gael Forget, Marie-Fanny Racault, Thomas Jackson, Stephanie Dutkiewic, Christian L. Müller, and Jacob Bien
+/Proceedings of the Royal Society A (2022)/
+
+*** *[[https://www.biorxiv.org/content/10.1101/2021.07.16.452528v1][A Flexible Bayesian Approach to Estimating Size-structured Matrix Population Models]]* :oceanography:biology:
+Kristof Glauninger, Jann Paul Mattern, Greg Britten, John Casey, Sangwon Hyun, Zhen Wu, E. Virginia Armbrust, Zaid Harchaoui, François Ribalet
+/PLOS Computational Biology (2021)/
+
+ # * Changepoint detection and selective inference
+
+*** *[[http://arxiv.org/abs/1812.03644][Post-selection Inference for Changepoint Detection Algorithms with Application to Copy Number Variation Data]]* :changepoint:selectiveinference:
+Sangwon Hyun, Kevin Lin, Max G'Sell, Ryan Tibshirani
+/Biometrics/ (2020)
+
+*** *[[http://arxiv.org/abs/1606.03552][Exact Post-Selection Inference for the Generalized Lasso Path]]* :changepoint:selectiveinference:
+Sangwon Hyun, Max G'Sell, Ryan Tibshirani
+/Electronic Journal of Statistics/ (2018)
+
+
+# *** * Infectious disease modeling and forecasting
+
+*** *[[https://www.medrxiv.org/content/10.1101/2021.07.12.21259660v1][An Open Repository of Real-Time COVID-19 Indicators]]*         :disease:
+Various authors
+/Proceedings of the National Academy of Sciences (2021)/
+
+*** *[[https://www.medrxiv.org/content/10.1101/2021.06.22.21259346v1][Can Auxiliary Indicators Improve COVID-19 Forecasting and Hotspot Prediction?]]* :disease:
+Daniel J. McDonald, Jacob Bien, Alden Green, Addison J. Hu, Nat DeFries, Sangwon Hyun, Natalia L. Oliveira, James Sharpnack, Jingjing Tang, Robert Tibshirani, Valérie Ventura, Larry Wasserman, Ryan Tibshirani
+/Proceedings of the National Academy of Sciences (2021)/
+
+
+*** *[[https://journals.plos.org/ploscompbiol/article?rev=2&id=10.1371/journal.pcbi.1006134][Nonmechanistic Forecasts of Seasonal Influenza with Iterative One-week-ahead Distributions]]* :disease:
+Logan Brooks, David Farrow, Sangwon Hyun, Ryan Tibshirani, Roni
+Rosenfeld /PLOS Computational Biology/ (2018)
+
+*** *[[http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004382][A Human Judgment Approach to Epidemiological Forecasting]]*    :disease:
+David Farrow, Logan Brooks, Sangwon Hyun, Ryan Tibshirani, Donald S. Burke
+/PLOS Computational Biology/ (2017)
+
+*** *[[http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004382][Flexible Modeling of Epidemics with an Empirical Bayes Framework]]* :disease:
+Logan Brooks, David Farrow, Sangwon Hyun, Ryan Tibshirani, Roni Rosenfeld
+/PLOS Computational Biology/ (2015)
+
+*** *[[http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0003063][Risk of Dengue for Tourists and Teams during the World Cup 2014 in Brazil]]* :disease:
+Wilbert Van Panhuis, Sangwon Hyun, Kayleigh Blaney, Ernesto T. A. Marques Jr, Giovanini E. Coelho, João Bosco Siqueira Jr, Ryan Tibshirani, Jarbas B. da Silva Jr, Roni Rosenfeld
+/PLOS Neglected Tropical Diseases/ (2014)
+
+*** *[[https://www.nature.com/articles/s41598-018-36361-9][Collaborative efforts to forecast seasonal influenza in the United States, 2015--2016]]* :disease:
+Various authors
+/Scientific Reports/ (2019)
+
+*** *[[https://www.sciencedirect.com/science/article/pii/S1755436517300889][Results from the Second Year of a Collaborative Effort to Forecast Influenza Seasons in the United States]]* :disease:
+Various authors
+/Epidemics/ (2018)
+
+*** *[[https://www.pnas.org/content/pnas/116/48/24268.full.pdf][An Open Challenge to Advance Probabilistic Forecasting for Dengue Epidemics]]* :disease:
+Various authors
+/Proceedings of the National Academy of Sciences/ (2019)
+
+
+# * Ongoing work
+
+# *Environmental Drivers of Marine Cell Populations Measured by Flow Cytometry*
+# Sangwon Hyun, Timothy Coleman, Francois Ribalet, Jacob Bien
+
+# *Trend Filtering for Mixture Analysis of Flow Cytometry*
+# Timothy Coleman, Sangwon Hyun, Francois Ribalet, Jacob Bien
+
+# *Nonlinear flowmix*
+# Timothy Coleman, Sangwon Hyun, Francois Ribalet, Jacob Bien
+
+# *Trend Filtering for Mixture Analysis of Flow Cytometry*
+# Timothy Coleman, Sangwon Hyun, Francois Ribalet, Jacob Bien
+
+
+
+* Formatting                                                       :noexport:
+# Local Variables:
+# eval: (org-hugo-auto-export-mode)
+# End:

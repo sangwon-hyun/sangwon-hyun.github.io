@@ -1,0 +1,65 @@
+/* 2. Target all PaperMod tag links */
+
+/* Targets any class that STARTS with "tag-" */
+[class^="tag-"] {
+    background-color: #2b6cb0 !important; /* Blue */
+    color: white !important;
+    padding: 2px 10px !important;
+    border-radius: 12px !important;
+    font-size: 0.85rem !important;
+    margin: 0 5px !important;
+    display: inline-block !important;
+    text-decoration: none !important;
+    transition: transform 0.2s ease;
+}
+
+[class^="tag-"]:hover {
+    background-color: #1a4a73 !important;
+    transform: scale(1.05);
+}
+
+/* Biology - Set3 Green (#b3de69) */
+.tag-biology {
+    background-color: #b3de69 !important;
+}
+
+/* Oceanography - Set3 Blue (#80b1d3) */
+.tag-oceanography {
+    background-color: #80b1d3 !important;
+}
+
+/* Changepoint - Set3 Purple (#bc80bd) */
+.tag-changepoint {
+    background-color: #bc80bd !important;
+}
+
+/* Physics - Set3 Orange (#fdb462) */
+.tag-physics {
+    background-color: #fdb462 !important;
+}
+
+/* General Research - Set3 Teal (#8dd3c7) */
+.tag-disease {
+    background-color: #8dd3c7 !important;
+}
+
+
+/* --- 1. SET3 COLORS (Precise) --- */
+
+/* Only targets the exact class "biology" or the nav-link "tag-biology" */
+.biology, .tag-biology { background-color: #b3de69 !important; color: #333 !important; }
+.oceanography, .tag-oceanography { background-color: #80b1d3 !important; color: #333 !important; }
+.changepoint, .tag-changepoint { background-color: #bc80bd !important; color: #333 !important; }
+.physics, .tag-physics { background-color: #fdb462 !important; color: #333 !important; }
+.disease, .tag-disease { background-color: #8dd3c7 !important; color: #333 !important; }
+
+/* --- 2. THE PILL LOOK --- */
+/* Target the spans inside your .tag container and your nav links */
+.tag span, .tag-navigation a {
+    display: inline-flex !important;
+    padding: 1px 8px !important;
+    border-radius: 6px !important;
+    font-size: 0.75rem !important;
+    margin-right: 4px !important;
+    text-decoration: none !important;
+}

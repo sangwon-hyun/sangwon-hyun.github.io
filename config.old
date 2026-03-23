@@ -1,0 +1,30 @@
+baseURL: "https://sangwon-hyun.github.io/"
+title: "Sangwon Hyun"
+theme: "papermod"
+
+taxonomies:
+  tag: "tags"
+  category: "categories"
+
+publishDir: "docs"
+buildDrafts: false
+disableKinds: []
+
+params:
+  mainSections: ["posts"]
+  showPostMeta: true
+  showTags: true
+  profileMode:
+    enabled: true
+    title: "Sangwon (Justin) Hyun"
+    subtitle: "Assistant Professor of Statistics, UC Santa Cruz"
+    imageUrl: "/img/resized-pic.jpg"
+    imageWidth: 250
+    imageHeight: 250
+    buttons:
+      - name: About me
+        url: about-me
+      - name: Research
+        url: research
+      - name: Group
+        url: group

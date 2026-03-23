@@ -1,23 +1,32 @@
 baseURL: "https://sangwon-hyun.github.io/"
-title: Sangwon Hyun
-date: ""
-publishDir: "docs"
-description: This is a description 
+title: "Sangwon Hyun"
 theme: "papermod"
-params:
-    profileMode:
-        enabled: true
-        title: "Sangwon (Justin) Hyun" # optional default will be site title
-        subtitle: "Assistant Professor of Statistics, UC Santa Cruz"
-        imageUrl: "/img/resized-pic.jpg"
-        imageWidth: 250 # custom size
-        imageHeight: 250 # custom size
-        buttons:
-        - name: About me
-          url: about-me
-        - name: Research
-          url: research
-        - name: Group
-          url: group
 
-# imageUrl: "https://sangwon-hyun.github.io/img/resized-pic.jpg"
+# System settings must come before Params
+taxonomies:
+  tag: tags
+  category: categories
+
+publishDir: "docs"
+buildDrafts: false
+
+# Everything below this is theme-specific
+params:
+  mainSections:
+    - posts
+  showPostMeta: true
+  showTags: true
+  profileMode:
+    enabled: true
+    title: "Sangwon (Justin) Hyun"
+    subtitle: "Assistant Professor of Statistics, UC Santa Cruz"
+    imageUrl: "/img/resized-pic.jpg"
+    imageWidth: 250
+    imageHeight: 250
+    buttons:
+      - name: About me
+        url: /posts/about-me
+      - name: Research
+        url: /posts/research
+      - name: Group
+        url: /posts/group

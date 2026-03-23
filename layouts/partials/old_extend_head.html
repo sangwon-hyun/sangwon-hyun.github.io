@@ -1,0 +1,6 @@
+{{- /* Manually fetching the CSS from your specific subfolder */ -}}
+{{- $style := resources.Get "css/extended/custom.css" -}}
+{{- if $style -}}
+    {{- $secureStyle := $style | minify | fingerprint -}}
+    <link rel="stylesheet" href="{{ $secureStyle.Permalink }}" integrity="{{ $secureStyle.Data.Integrity }}" crossorigin="anonymous">
+{{- end -}}
