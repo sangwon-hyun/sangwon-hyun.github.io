@@ -1,6 +1,6 @@
 +++
 title = "Research"
-lastmod = 2026-03-23T12:52:33-07:00
+lastmod = 2026-03-23T15:17:26-07:00
 tags = ["biology", "oceanography", "changepoint", "disease"]
 type = "post"
 url = "/research/"
