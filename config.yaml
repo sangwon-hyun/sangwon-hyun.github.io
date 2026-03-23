@@ -20,7 +20,8 @@ params:
     enabled: true
     title: "Sangwon (Justin) Hyun"
     subtitle: "Assistant Professor of Statistics, UC Santa Cruz"
-    imageUrl: "img/resized-pic.jpg"
+    # imageUrl: "img/resized-pic.jpg"
+    imageUrl: "https://sangwon-hyun.github.io/img/resized-pic.jpg"
     imageWidth: 250
     imageHeight: 250
     buttons:
