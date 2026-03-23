@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Sangwon Hyun</title>
-    <link>http://localhost:1313/</link>
+    <link>https://sangwon-hyun.github.io/</link>
     <description>Recent content on Sangwon Hyun</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sangwon-hyun.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>http://localhost:1313/posts/about-me/</link>
+      <link>https://sangwon-hyun.github.io/posts/about-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/about-me/</guid>
+      <guid>https://sangwon-hyun.github.io/posts/about-me/</guid>
       <description>&lt;nav&gt;
 &lt;ul&gt;
 &lt;/ul&gt;
@@ -29,9 +29,9 @@ My current research centers around statistically analyzing the ocean&amp;#39;s m
     </item>
     <item>
       <title>Group</title>
-      <link>http://localhost:1313/posts/group/</link>
+      <link>https://sangwon-hyun.github.io/posts/group/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/group/</guid>
+      <guid>https://sangwon-hyun.github.io/posts/group/</guid>
       <description>&lt;p&gt;
 I am recruiting for highly motivated postdoctoral scholars, graduate students,
 and undergraduate students to join my group!&lt;/p&gt;
@@ -76,9 +76,9 @@ Rafael Catoia (MS, next position: Biostatistician, QSU Stanford Medicine)  &lt;/
     </item>
     <item>
       <title>Research</title>
-      <link>http://localhost:1313/posts/research/</link>
+      <link>https://sangwon-hyun.github.io/posts/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/research/</guid>
+      <guid>https://sangwon-hyun.github.io/posts/research/</guid>
       <description>&lt;style&gt;
   /* 1. Tighten the Header and setup the stack */
   .post-content h3, .post-content h4 {
