@@ -1,15 +1,13 @@
 +++
 title = "Group"
 author = ["Sangwon Hyun"]
-lastmod = 2026-04-09T16:05:01-07:00
+lastmod = 2026-04-09T16:15:46-07:00
 slug = "research"
 draft = false
 +++
 
 I am recruiting for highly motivated postdoctoral scholars, graduate students,
 and undergraduate students to join my group!
-
-If you are an unde
 
 
 ## Post-docs {#post-docs}
