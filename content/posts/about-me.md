@@ -1,7 +1,7 @@
 +++
 title = "About me"
 author = ["Sangwon (Justin) Hyun"]
-lastmod = 2026-03-23T12:11:07-07:00
+lastmod = 2026-05-07T09:51:44-07:00
 slug = "about-me"
 draft = false
 +++
@@ -23,7 +23,7 @@ My current research centers around statistically analyzing the ocean's microbial
 -   Which are coherent spatial regions (i.e., biomes/provinces) in the ocean according to biology?
 -   How are marine microbes distributed where data has not been collected yet?
 
-My work is supported by the Simons Foundation and by the National Science foundation ([CAIG AI+Geosciences](https://www.nsf.gov/funding/opportunities/caig-collaborations-artificial-intelligence-geosciences)).
+My work is supported by the Simons Foundation ([Investigator profile](https://cbiomes.org/research/statistical-comparison-of-the-oceans-biogeochemical-data/)) and by the National Science foundation ([CAIG AI+Geosciences](https://www.nsf.gov/funding/opportunities/caig-collaborations-artificial-intelligence-geosciences)).
 
 I'm also an early-career representative on the Section U steering committee of the American Association for the Advancement of Science (AAAS).
 

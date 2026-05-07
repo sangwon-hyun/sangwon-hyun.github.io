@@ -34,7 +34,7 @@ My current research centers around statistically analyzing the ocean's microbial
 - How are marine microbes distributed where data has not been collected yet?
 
 
-My work is supported by the Simons Foundation and by the National Science foundation ([[https://www.nsf.gov/funding/opportunities/caig-collaborations-artificial-intelligence-geosciences][CAIG AI+Geosciences]]).
+My work is supported by the Simons Foundation ([[https://cbiomes.org/research/statistical-comparison-of-the-oceans-biogeochemical-data/][Investigator profile]]) and by the National Science foundation ([[https://www.nsf.gov/funding/opportunities/caig-collaborations-artificial-intelligence-geosciences][CAIG AI+Geosciences]]).
 
 I'm also an early-career representative on the Section U steering committee of the American Association for the Advancement of Science (AAAS).
 
