@@ -1,6 +1,6 @@
 +++
 title = "Research"
-lastmod = 2026-09-03T21:17:27-07:00
+lastmod = 2026-09-03T21:26:21-07:00
 tags = ["biology", "oceanography", "changepoint", "disease"]
 type = "post"
 url = "/research/"
@@ -87,7 +87,7 @@ author = "Sangwon (Justin) Hyun"
 
 Katherine Qi, Francois Ribalet, Sangwon Hyun, Dr. Angelicque E. White, E. Virginia Armbrust
 
-_Submitted (2026)_
+_In revision (2026)_
 
 
 #### **[Fine tuning of TCR signaling via CD8αβ and PD-1 and the fate of autoreactive thymocytes during negative selection](https://academic.oup.com/immunohorizons/article/10/3/vlaf078/8513204)** <span class="tag"><span class="biology">biology</span></span> {#fine-tuning-of-tcr-signaling-via-cd8αβ-and-pd-1-and-the-fate-of-autoreactive-thymocytes-during-negative-selection}
@@ -101,14 +101,14 @@ _Immunohorizons (2026)_
 
 Yik Lun Kei, Qi Wang, Paul A. Parker, Francois Ribalet, Sangwon Hyun
 
-_Submitted (2025)_
+_Submitted (2026)_
 
 
 #### **[Defining 3-dimensional marine provinces with phytoplankton compositions](https://arxiv.org/abs/2512.08035)** <span class="tag"><span class="changepoint">changepoint</span><span class="biology">biology</span></span> {#defining-3-dimensional-marine-provinces-with-phytoplankton-compositions}
 
 Rafael Catoia Pulgrossi, Nathan L R Williams, Yubin Raut, Jed Fuhrman, Sangwon Hyun
 
-_Submitted (2025)_
+_In revision (2026)_
 
 
 #### **[Mixtures of Neural Network Experts with Application to Phytoplankton Flow Cytometry Data](https://arxiv.org/abs/2507.01375)** <span class="tag"><span class="oceanography">oceanography</span><span class="biology">biology</span></span> {#mixtures-of-neural-network-experts-with-application-to-phytoplankton-flow-cytometry-data}
@@ -122,14 +122,14 @@ _Environmetrics (2026)_
 
 Ziyue Zheng, Loay J Jabre, Matthew McIlvin, Mak A Saito, Sangwon Hyun
 
-_Submitted (2025)_
+_In revision (2026)_
 
 
 #### **[Trend Filtered Mixture of Experts for Automated Gating of High-Frequency Flow Cytometry Data](https://arxiv.org/abs/2504.12287)** <span class="tag"><span class="oceanography">oceanography</span><span class="biology">biology</span></span> {#trend-filtered-mixture-of-experts-for-automated-gating-of-high-frequency-flow-cytometry-data}
 
 Sangwon Hyun, Tim Coleman, Francois Ribalet, Jacob Bien
 
-_Submitted (2025)_
+_In revision (2026)_
 
 
 #### **[Identification of Microbial Metabolic Functional Guilds from Large Genomic Datasets](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1197329/full)** <span class="tag"><span class="oceanography">oceanography</span><span class="biology">biology</span></span> {#identification-of-microbial-metabolic-functional-guilds-from-large-genomic-datasets}
