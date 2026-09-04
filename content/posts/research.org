@@ -59,6 +59,32 @@
 # Sangwon Hyun, Francois Ribalet, Timothy Coleman, Jacob Bien
 # In submission (2021)
 
+* Software
+1. Flow cytometry and Mixture-of-experts
+
+  #+ATTR_HTML: :style list-style-type: none;
+  - [[https://github.com/sangwon-hyun/flowmix][*flowmix*]]: sparse mixture of experts for gating and predicting time series of flow cytometric data.
+  - [[https://github.com/sangwon-hyun/flowtrend-project/tree/main][*flowtrend*]]^{*}: automatic gating for marine flow cytometry data observed over time and space.
+
+2. Selective statistical inference
+  #+ATTR_HTML: :style list-style-type: none;
+  - [[https://github.com/sangwon-hyun/genlassoinf][*genlassoinf*]]: Valid inference after selection for generalized lasso problems.
+  - [[https://github.com/sangwon-hyun/binseginf][*binseginf*]]: Valid inference for 1-dimensional changepoints detected using segmentation algorithm.
+
+3. Spatial proteomics
+  #+ATTR_HTML: :style list-style-type: none;
+  - [[https://github.com/ZiyueZHENG/FSPmix][*FSPmix*]]^{*}: semi-supervised clustering of spatial proteomic curves for non-model organisms (e.g., marine diatoms).
+
+4. Remote sensing data analysis
+  #+ATTR_HTML: :style list-style-type: none;
+  - [[https://github.com/sangwon-hyun/omd][*omd*]]: optimal transport for spatial marine remote sensing data
+
+^{*} Built using [[https://jacobbien.github.io/litr-project/][litr]] (Literate programming for R software)
+
+
+
+* Manuscripts
+
 *** *[[https://essopenarchive.org/doi/full/10.22541/essoar.15001794/v1][Time Series Decomposition of Continuous Flow Cytometry Reveals Biogeographical Variation in Population-Specific Productivity of Small Phytoplankton]]* :biology:oceanography:
 Katherine Qi, Francois Ribalet, Sangwon Hyun, Dr. Angelicque E. White, E. Virginia Armbrust
 
@@ -82,7 +108,7 @@ Rafael Catoia Pulgrossi, Nathan L R Williams, Yubin Raut, Jed Fuhrman, Sangwon H
 *** *[[https://arxiv.org/abs/2507.01375][Mixtures of Neural Network Experts with Application to Phytoplankton Flow Cytometry Data]]* :oceanography:biology:
 Ethan Pawl, François Ribalet, Paul A Parker, Sangwon Hyun
 
-/Submitted (2025)/
+/Environmetrics (2026)/
 
 *** *[[https://arxiv.org/abs/2512.08087][Subcellular proteome niche discovery using semi-supervised functional clustering]]* :oceanography:biology:
 Ziyue Zheng, Loay J Jabre, Matthew McIlvin, Mak A Saito, Sangwon Hyun
