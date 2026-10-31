@@ -27,7 +27,7 @@ University of Minnesota, and brings a strong foundation in both theoretical and
 applied statistics to his role at CBIOMES.
 
 
-*** Trisha Dawn (Incoming)
+*** Trisha Dawn 
 
 #+ATTR_HTML: :width 40% 
 [[../../img/trisha-pic.jpeg]]
@@ -45,7 +45,7 @@ Masters and Bachelors in Statistics from Indian Statistical Institute and
 St. Xavier’s College (Autonomous), Kolkata. Outside of my academic work, I am
 formally trained and passionate about Indian classical dance.
 
-*** [[https://parulvpatil.github.io/webpage/][Parul Patil]] (Incoming)
+*** [[https://parulvpatil.github.io/webpage/][Parul Patil]] 
 #+ATTR_HTML: :width 40% 
 [[../../img/parul-pic.jpg]]
 
@@ -99,17 +99,39 @@ to pursue a PhD program in it. In my free time, I love rock climbing, doing
 pottery, and playing guitar!
 
 
-*** Emma Gius (Undergrad)
+# *** Emma Gius (Undergrad)
 
+# #+ATTR_HTML: :width 40% 
+# [[../../img/emma-pic.jpeg]]
+
+# I am a 4th year undergraduate student currently enrolled in UCSC's 4+1 pathway
+# in computer science and statistics. I am interested in applying statistics to
+# environmental research. In my free time, I love watching formula one races and
+# movies!
+
+# # - Cameron O'Neill (PhD, jointly with Robert Lunde)
+
+*** Thanh Nguyen (Undergrad)
 #+ATTR_HTML: :width 40% 
-[[../../img/emma-pic.jpeg]]
+[[../../img/thanh-pic.jpg]]
 
-I am a 4th year undergraduate student currently enrolled in UCSC's 4+1 pathway
-in computer science and statistics. I am interested in applying statistics to
-environmental research. In my free time, I love watching formula one races and
-movies!
+I am a fourth-year undergraduate majoring in Applied Mathematics with a minor in
+Statistics. The problems that interest me the most in Statistics and Machine
+Learning are disease modelling and genomics. A huge part of my life is music
+performance, especially singing and dancing. I am also really interested in
+songwriting; I can write lyrics, but I have yet to make my own music.
 
-# - Cameron O'Neill (PhD, jointly with Robert Lunde)
+*** Milena Smith (Undergrad)
+#+ATTR_HTML: :width 40% 
+[[../../img/milena-pic.jpeg]]
+
+I am a third-year undergraduate student majoring in Robotics Engineering and
+Agroecology. I am interested in exploring how statistical methods can be applied
+for understanding the environment. In my free time, I love hiking, baking, and
+farming.
+
+
+
 * Alumni
 
 *** Rafael Catoia (MS) 

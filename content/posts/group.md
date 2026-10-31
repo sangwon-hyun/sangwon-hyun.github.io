@@ -1,7 +1,7 @@
 +++
 title = "Group"
 author = ["Sangwon Hyun"]
-lastmod = 2026-04-09T16:15:46-07:00
+lastmod = 2026-10-30T15:01:13-07:00
 slug = "research"
 draft = false
 +++
@@ -26,7 +26,7 @@ University of Minnesota, and brings a strong foundation in both theoretical and
 applied statistics to his role at CBIOMES.
 
 
-#### Trisha Dawn (Incoming) {#trisha-dawn--incoming}
+#### Trisha Dawn {#trisha-dawn}
 
 {{< figure src="../../img/trisha-pic.jpeg" width="40%" >}}
 
@@ -44,7 +44,7 @@ St. Xavier’s College (Autonomous), Kolkata. Outside of my academic work, I am
 formally trained and passionate about Indian classical dance.
 
 
-#### [Parul Patil](https://parulvpatil.github.io/webpage/) (Incoming) {#parul-patil--incoming}
+#### [Parul Patil](https://parulvpatil.github.io/webpage/) {#parul-patil}
 
 {{< figure src="../../img/parul-pic.jpg" width="40%" >}}
 
@@ -97,14 +97,25 @@ to pursue a PhD program in it. In my free time, I love rock climbing, doing
 pottery, and playing guitar!
 
 
-#### Emma Gius (Undergrad) {#emma-gius--undergrad}
+#### Thanh Nguyen (Undergrad) {#thanh-nguyen--undergrad}
 
-{{< figure src="../../img/emma-pic.jpeg" width="40%" >}}
+{{< figure src="../../img/thanh-pic.jpg" width="40%" >}}
 
-I am a 4th year undergraduate student currently enrolled in UCSC's 4+1 pathway
-in computer science and statistics. I am interested in applying statistics to
-environmental research. In my free time, I love watching formula one races and
-movies!
+I am a fourth-year undergraduate majoring in Applied Mathematics with a minor in
+Statistics. The problems that interest me the most in Statistics and Machine
+Learning are disease modelling and genomics. A huge part of my life is music
+performance, especially singing and dancing. I am also really interested in
+songwriting; I can write lyrics, but I have yet to make my own music.
+
+
+#### Milena Smith (Undergrad) {#milena-smith--undergrad}
+
+{{< figure src="../../img/milena-pic.jpeg" width="40%" >}}
+
+I am a third-year undergraduate student majoring in Robotics Engineering and
+Agroecology. I am interested in exploring how statistical methods can be applied
+for understanding the environment. In my free time, I love hiking, baking, and
+farming.
 
 
 ## Alumni {#alumni}
